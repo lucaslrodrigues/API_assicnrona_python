@@ -1,4 +1,0 @@
-./fastapi-tdd-docker/project/app/__pycache__
-./fastapi-tdd-docker/project/tests/__pycache__
-./fastapi-tdd-docker/project/.venv
-./fastapi-tdd-docker/project/poetry.lock
