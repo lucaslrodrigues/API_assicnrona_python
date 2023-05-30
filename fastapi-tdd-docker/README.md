@@ -8,3 +8,7 @@ As variaveis de ambiente não são case sensitive.Uma variavel de ambiente decla
 
 ## Assincronismo
 O fast api possibilita a utilização de funções assíncronas com a palavra chave "**async**" na assinatura da função.
+<br>
+
+## Docs
+Desinstalar ambiente poetry: https://stackoverflow.com/questions/70064449/how-to-rebuild-poetry-environment-from-scratch-and-force-reinstall-everything
