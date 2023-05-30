@@ -1,0 +1,8 @@
+.dockerignore
+/poetry.lock
+/app/__pycache__
+/tests/__pycache__
+Dockerfile
+Dockerfile.prod
+/.venv
+requirements.txt
