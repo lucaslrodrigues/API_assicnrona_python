@@ -5,4 +5,3 @@
 Dockerfile
 Dockerfile.prod
 /.venv
-requirements.txt

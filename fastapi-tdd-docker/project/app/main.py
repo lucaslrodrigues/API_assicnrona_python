@@ -9,4 +9,4 @@ async def teste(settings: Settings = Depends(get_settings)):
         "response": "ok 200",
         "enviroment": settings.enviroment,
         "testing": settings.testing
-        }
+    }
