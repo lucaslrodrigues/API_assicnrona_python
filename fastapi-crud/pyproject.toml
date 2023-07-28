@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "apagar"
+version = "0.1.0"
+description = ""
+authors = ["lucas <lucas.lrodrigues@sptech.school>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+fastapi = "^0.98.0"
+python = "^3.8"
+pytest = "^7.4.0"
+httpx = "^0.24.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
